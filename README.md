@@ -33,5 +33,5 @@ It explores yearly trends, city-level pollution, pollutant correlations, and sea
 ---
 
 ## 🙌 Author
-**Narendra Ogety**  
-[Portfolio](https://ogetynarendra.github.io)
+  **Nithin Narla**  
+
